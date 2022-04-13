@@ -1,0 +1,101 @@
+[2022-03-19 00:49:11] [ ERROR] [OdontologoDAOH2:&L] org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "ODONTOLOGO" no encontrada
+Table "ODONTOLOGO" not found; SQL statement:
+INSERT INTO odontologo (numero_matricula, nombre, apellido) VALUES (?,?,?) [42102-210]
+[2022-03-19 00:49:11] [ ERROR] [OdontologoDAOH2:&L] org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "ODONTOLOGO" no encontrada
+Table "ODONTOLOGO" not found; SQL statement:
+INSERT INTO odontologo (numero_matricula, nombre, apellido) VALUES (?,?,?) [42102-210]
+[2022-03-19 00:49:11] [ ERROR] [OdontologoDAOH2:&L] org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "ODONTOLOGO" no encontrada
+Table "ODONTOLOGO" not found; SQL statement:
+INSERT INTO odontologo (numero_matricula, nombre, apellido) VALUES (?,?,?) [42102-210]
+[2022-03-19 00:49:11] [ ERROR] [OdontologoDAOH2:&L] org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "ODONTOLOGO" no encontrada
+Table "ODONTOLOGO" not found; SQL statement:
+INSERT INTO odontologo (numero_matricula, nombre, apellido) VALUES (?,?,?) [42102-210]
+[2022-03-19 00:49:11] [ ERROR] [OdontologoDAOH2:&L] org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "ODONTOLOGO" no encontrada
+Table "ODONTOLOGO" not found; SQL statement:
+SELECT * FROM odontologo WHERE ID = ? [42102-210]
+[2022-03-19 00:49:11] [ ERROR] [OdontologoDAOH2:&L] org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "ODONTOLOGO" no encontrada
+Table "ODONTOLOGO" not found; SQL statement:
+SELECT * FROM odontologo [42102-210]
+[2022-03-19 00:51:00] [ ERROR] [OdontologoDAOH2:&L] org.h2.jdbc.JdbcSQLNonTransientConnectionException: La base de datos puede que ya esté siendo utilizada: null. Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-210]
+[2022-03-19 00:51:00] [ ERROR] [OdontologoDAOH2:&L] org.h2.jdbc.JdbcSQLNonTransientConnectionException: La base de datos puede que ya esté siendo utilizada: null. Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-210]
+[2022-03-19 00:51:00] [ ERROR] [OdontologoDAOH2:&L] org.h2.jdbc.JdbcSQLNonTransientConnectionException: La base de datos puede que ya esté siendo utilizada: null. Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-210]
+[2022-03-19 00:51:00] [ ERROR] [OdontologoDAOH2:&L] org.h2.jdbc.JdbcSQLNonTransientConnectionException: La base de datos puede que ya esté siendo utilizada: null. Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-210]
+[2022-03-19 00:51:00] [ ERROR] [OdontologoDAOH2:&L] org.h2.jdbc.JdbcSQLNonTransientConnectionException: La base de datos puede que ya esté siendo utilizada: null. Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-210]
+[2022-03-19 00:51:00] [ ERROR] [OdontologoDAOH2:&L] org.h2.jdbc.JdbcSQLNonTransientConnectionException: La base de datos puede que ya esté siendo utilizada: null. Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-210]
+[2022-03-19 00:52:14] [ ERROR] [OdontologoDAOH2:&L] org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "ODONTOLOGO" no encontrada
+Table "ODONTOLOGO" not found; SQL statement:
+INSERT INTO odontologo (numero_matricula, nombre, apellido) VALUES (?,?,?) [42102-210]
+[2022-03-19 00:52:14] [ ERROR] [OdontologoDAOH2:&L] org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "ODONTOLOGO" no encontrada
+Table "ODONTOLOGO" not found; SQL statement:
+INSERT INTO odontologo (numero_matricula, nombre, apellido) VALUES (?,?,?) [42102-210]
+[2022-03-19 00:52:14] [ ERROR] [OdontologoDAOH2:&L] org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "ODONTOLOGO" no encontrada
+Table "ODONTOLOGO" not found; SQL statement:
+INSERT INTO odontologo (numero_matricula, nombre, apellido) VALUES (?,?,?) [42102-210]
+[2022-03-19 00:52:14] [ ERROR] [OdontologoDAOH2:&L] org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "ODONTOLOGO" no encontrada
+Table "ODONTOLOGO" not found; SQL statement:
+INSERT INTO odontologo (numero_matricula, nombre, apellido) VALUES (?,?,?) [42102-210]
+[2022-03-19 00:52:14] [ ERROR] [OdontologoDAOH2:&L] org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "ODONTOLOGO" no encontrada
+Table "ODONTOLOGO" not found; SQL statement:
+SELECT * FROM odontologo WHERE ID = ? [42102-210]
+[2022-03-19 00:52:14] [ ERROR] [OdontologoDAOH2:&L] org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "ODONTOLOGO" no encontrada
+Table "ODONTOLOGO" not found; SQL statement:
+SELECT * FROM odontologo [42102-210]
+[2022-03-19 00:53:05] [ ERROR] [OdontologoDAOH2:&L] org.h2.jdbc.JdbcSQLNonTransientConnectionException: La base de datos puede que ya esté siendo utilizada: null. Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-210]
+[2022-03-19 00:53:05] [ ERROR] [OdontologoDAOH2:&L] org.h2.jdbc.JdbcSQLNonTransientConnectionException: La base de datos puede que ya esté siendo utilizada: null. Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-210]
+[2022-03-19 00:53:06] [ ERROR] [OdontologoDAOH2:&L] org.h2.jdbc.JdbcSQLNonTransientConnectionException: La base de datos puede que ya esté siendo utilizada: null. Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-210]
+[2022-03-19 00:53:06] [ ERROR] [OdontologoDAOH2:&L] org.h2.jdbc.JdbcSQLNonTransientConnectionException: La base de datos puede que ya esté siendo utilizada: null. Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-210]
+[2022-03-19 00:53:06] [ ERROR] [OdontologoDAOH2:&L] org.h2.jdbc.JdbcSQLNonTransientConnectionException: La base de datos puede que ya esté siendo utilizada: null. Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-210]
+[2022-03-19 00:53:06] [ ERROR] [OdontologoDAOH2:&L] org.h2.jdbc.JdbcSQLNonTransientConnectionException: La base de datos puede que ya esté siendo utilizada: null. Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-210]
+[2022-03-19 00:53:44] [ ERROR] [OdontologoDAOH2:&L] org.h2.jdbc.JdbcSQLNonTransientConnectionException: La base de datos puede que ya esté siendo utilizada: null. Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-210]
+[2022-03-19 00:53:44] [ ERROR] [OdontologoDAOH2:&L] org.h2.jdbc.JdbcSQLNonTransientConnectionException: La base de datos puede que ya esté siendo utilizada: null. Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-210]
+[2022-03-19 00:53:44] [ ERROR] [OdontologoDAOH2:&L] org.h2.jdbc.JdbcSQLNonTransientConnectionException: La base de datos puede que ya esté siendo utilizada: null. Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-210]
+[2022-03-19 00:53:44] [ ERROR] [OdontologoDAOH2:&L] org.h2.jdbc.JdbcSQLNonTransientConnectionException: La base de datos puede que ya esté siendo utilizada: null. Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-210]
+[2022-03-19 00:53:44] [ ERROR] [OdontologoDAOH2:&L] org.h2.jdbc.JdbcSQLNonTransientConnectionException: La base de datos puede que ya esté siendo utilizada: null. Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-210]
+[2022-03-19 00:53:44] [ ERROR] [OdontologoDAOH2:&L] org.h2.jdbc.JdbcSQLNonTransientConnectionException: La base de datos puede que ya esté siendo utilizada: null. Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-210]
+[2022-03-19 00:54:15] [ ERROR] [OdontologoDAOH2:&L] org.h2.jdbc.JdbcSQLNonTransientConnectionException: La base de datos puede que ya esté siendo utilizada: null. Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-210]
+[2022-03-19 00:54:15] [ ERROR] [OdontologoDAOH2:&L] org.h2.jdbc.JdbcSQLNonTransientConnectionException: La base de datos puede que ya esté siendo utilizada: null. Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-210]
+[2022-03-19 00:54:15] [ ERROR] [OdontologoDAOH2:&L] org.h2.jdbc.JdbcSQLNonTransientConnectionException: La base de datos puede que ya esté siendo utilizada: null. Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-210]
+[2022-03-19 00:54:15] [ ERROR] [OdontologoDAOH2:&L] org.h2.jdbc.JdbcSQLNonTransientConnectionException: La base de datos puede que ya esté siendo utilizada: null. Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-210]
+[2022-03-19 00:54:15] [ ERROR] [OdontologoDAOH2:&L] org.h2.jdbc.JdbcSQLNonTransientConnectionException: La base de datos puede que ya esté siendo utilizada: null. Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-210]
+[2022-03-19 00:54:15] [ ERROR] [OdontologoDAOH2:&L] org.h2.jdbc.JdbcSQLNonTransientConnectionException: La base de datos puede que ya esté siendo utilizada: null. Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-210]
+[2022-03-19 00:54:37] [ INFO ] [OdontologoDAOH2:&L] Se creó el odontólogo 1. Sus datos son: * matrícula n° * 123456789, * nombre * Georgiana y * apellido * garino
+[2022-03-19 00:54:37] [ INFO ] [OdontologoDAOH2:&L] Se creó el odontólogo 2. Sus datos son: * matrícula n° * 987654321, * nombre * Luis y * apellido * de la puente
+[2022-03-19 00:54:37] [ INFO ] [OdontologoDAOH2:&L] Se creó el odontólogo 3. Sus datos son: * matrícula n° * 654987321, * nombre * Martha y * apellido * gallo
+[2022-03-19 00:54:37] [ INFO ] [OdontologoDAOH2:&L] Se creó el odontólogo 4. Sus datos son: * matrícula n° * 123789456, * nombre * luis alberto y * apellido * de la Puente JR
+[2022-03-19 00:54:37] [ INFO ] [OdontologoDAOH2:&L] se busco al odontologo: Georgiana garino con el numero de matricula 123456789 de id1
+[2022-03-19 00:54:37] [ INFO ] [OdontologoDAOH2:&L] * Odontólogo * con id 1// nombre: Georgiana - apellido: garino - matrícula n°: 123456789
+[2022-03-19 00:54:37] [ INFO ] [OdontologoDAOH2:&L] * Odontólogo * con id 2// nombre: Luis - apellido: de la puente - matrícula n°: 987654321
+[2022-03-19 00:54:37] [ INFO ] [OdontologoDAOH2:&L] * Odontólogo * con id 3// nombre: Martha - apellido: gallo - matrícula n°: 654987321
+[2022-03-19 00:54:37] [ INFO ] [OdontologoDAOH2:&L] * Odontólogo * con id 4// nombre: luis alberto - apellido: de la Puente JR - matrícula n°: 123789456
+[2022-03-19 01:11:20] [ ERROR] [OdontologoDAOH2:&L] org.h2.jdbc.JdbcSQLNonTransientConnectionException: La base de datos puede que ya esté siendo utilizada: null. Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-210]
+[2022-03-19 01:11:55] [ ERROR] [OdontologoDAOH2:&L] org.h2.jdbc.JdbcSQLNonTransientConnectionException: La base de datos puede que ya esté siendo utilizada: null. Soluciones Posibles: cierre todas las otras conexiones; use el modo server
+Database may be already in use: null. Possible solutions: close all other connection(s); use the server mode [90020-210]
+[2022-03-19 01:12:11] [ INFO ] [OdontologoDAOH2:&L] * Odontólogo * con id 1// nombre: Georgiana - apellido: garino - matrícula n°: 123456789
+[2022-03-19 01:12:11] [ INFO ] [OdontologoDAOH2:&L] * Odontólogo * con id 2// nombre: Luis - apellido: de la puente - matrícula n°: 987654321
+[2022-03-19 01:12:11] [ INFO ] [OdontologoDAOH2:&L] * Odontólogo * con id 3// nombre: Martha - apellido: gallo - matrícula n°: 654987321
+[2022-03-19 01:12:11] [ INFO ] [OdontologoDAOH2:&L] * Odontólogo * con id 4// nombre: luis alberto - apellido: de la Puente JR - matrícula n°: 123789456

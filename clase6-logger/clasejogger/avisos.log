@@ -1,0 +1,28 @@
+[2022-03-0914:20:26] [ %-5] [TestLog:8] arrancando
+[2022-03-0914:20:26] [ %-5] [TestLog:14] error al dividir por cero
+java.lang.ArithmeticException: / by zero
+	at TestLog.main(TestLog.java:11)
+[2022-03-0914:20:26] [ %-5] [TestLog:16] advertencia al metodo main esta porr finalizar
+[2022-03-0914:20:26] [ %-5] [TestLog:17] esto va a finalizarse
+[2022-03-0914:20:26] [ %-5] [TestLog:18] hello
+[2022-03-0914:22:30] [ %-5] [TestLog:10] arrancando
+[2022-03-0914:22:31] [ %-5] [TestLog:16] error al dividir por cero
+java.lang.ArithmeticException: / by zero
+	at TestLog.main(TestLog.java:13)
+[2022-03-0914:22:31] [ %-5] [TestLog:18] advertencia al metodo main esta porr finalizar
+[2022-03-0914:22:31] [ %-5] [TestLog:19] esto va a finalizarse
+[2022-03-0914:22:31] [ %-5] [TestLog:20] hello
+[2022-03-0914:24:45] [ %-5] [TestLog:9] arrancando
+[2022-03-0914:24:45] [ %-5] [TestLog:14] error al dividir por cero
+java.lang.ArithmeticException: / by zero
+	at TestLog.main(TestLog.java:12)
+[2022-03-0914:24:45] [ %-5] [TestLog:16] advertencia al metodo main esta porr finalizar
+[2022-03-0914:24:45] [ %-5] [TestLog:17] esto va a finalizarse
+[2022-03-0914:24:45] [ %-5] [TestLog:18] hello
+[2022-03-09 14:26:12] [ INFO ] [TestLog:9] arrancando
+[2022-03-09 14:26:12] [ ERROR] [TestLog:14] error al dividir por cero
+java.lang.ArithmeticException: / by zero
+	at TestLog.main(TestLog.java:12)
+[2022-03-09 14:26:12] [ WARN ] [TestLog:16] advertencia al metodo main esta porr finalizar
+[2022-03-09 14:26:12] [ DEBUG] [TestLog:17] esto va a finalizarse
+[2022-03-09 14:26:12] [ INFO ] [TestLog:18] hello

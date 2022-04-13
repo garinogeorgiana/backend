@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FactoryClase7Funcional/FactoryClase7Funcional.iml" filepath="$PROJECT_DIR$/FactoryClase7Funcional/FactoryClase7Funcional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spotify/Spotify.iml" filepath="$PROJECT_DIR$/Spotify/Spotify.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/clase4-proxy.iml" filepath="$PROJECT_DIR$/.idea/clase4-proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proxy-internet (1)/proxy-internet (1).iml" filepath="$PROJECT_DIR$/proxy-internet (1)/proxy-internet (1).iml" />
+    </modules>
+  </component>
+</project>
